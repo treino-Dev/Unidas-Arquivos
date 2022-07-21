@@ -1,3 +1,3 @@
 Açucar 2
-macarrão
-Cerveja
+macarrão 5
+Cerveja 2
